@@ -9,3 +9,4 @@ class Solution:
             else: 
                 res = res + roman[s[i]]
         return res
+        print(res)
